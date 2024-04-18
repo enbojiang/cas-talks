@@ -1,2 +1,2 @@
-# cas_talks
+# cas-talks
 files related to CAS talks
